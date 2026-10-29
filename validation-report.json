@@ -1,0 +1,196 @@
+{
+ "generatedFrom": "tools/source.txt (transcribed from the text layer of PDF Dec2026/nep-ug/014)",
+ "totalRecords": 326,
+ "countPerCategory": {
+  "DSC": 84,
+  "AEC": 1,
+  "MDC": 73,
+  "COMP": 5,
+  "SEC": 79,
+  "VAC": 69,
+  "MINOR": 15
+ },
+ "distinctExamDates": [
+  "2026-11-18",
+  "2026-11-20",
+  "2026-11-23",
+  "2026-11-25",
+  "2026-11-27",
+  "2026-11-30",
+  "2026-12-02",
+  "2026-12-04",
+  "2026-12-07",
+  "2026-12-08",
+  "2026-12-09",
+  "2026-12-10",
+  "2026-12-11",
+  "2026-12-12",
+  "2026-12-15",
+  "2026-12-18",
+  "2026-12-21",
+  "2026-12-23"
+ ],
+ "recordsPerDate": {
+  "2026-11-18": 11,
+  "2026-11-20": 10,
+  "2026-11-23": 12,
+  "2026-11-25": 1,
+  "2026-11-27": 2,
+  "2026-11-30": 6,
+  "2026-12-02": 8,
+  "2026-12-04": 10,
+  "2026-12-07": 3,
+  "2026-12-08": 2,
+  "2026-12-09": 2,
+  "2026-12-10": 2,
+  "2026-12-11": 16,
+  "2026-12-12": 79,
+  "2026-12-15": 69,
+  "2026-12-18": 5,
+  "2026-12-21": 73,
+  "2026-12-23": 15
+ },
+ "oldSyllabusRecords": 51,
+ "checksRun": [
+  "unique code across all records",
+  "5-digit code format",
+  "no missing code/title/date",
+  "printed weekday vs calendar weekday (Python datetime)",
+  "same-title records within a category"
+ ],
+ "duplicateCodes": {},
+ "nonFiveDigitCodes": [],
+ "missingFields": [],
+ "weekdayMismatches": [],
+ "duplicateTitlesWithinCategory": [
+  [
+   "15068",
+   "15088"
+  ]
+ ],
+ "sourceWordingAnomalies": [
+  {
+   "code": "10006",
+   "note": "Source spelling 'Defenec' preserved."
+  },
+  {
+   "code": "10052",
+   "note": "Title ends with an unbalanced ')' in the source; 'Ithihaas' spelling preserved."
+  },
+  {
+   "code": "10106",
+   "note": "Title ends with a doubled '))' in the source."
+  },
+  {
+   "code": "10117",
+   "note": "Title wraps across lines inside the year '2024-2025'; joined."
+  },
+  {
+   "code": "10120",
+   "note": "Old-syllabus marker written '(Old) (2024-2025)'."
+  },
+  {
+   "code": "10121",
+   "note": "Old-syllabus marker written '(Old) (2024-2025)'."
+  },
+  {
+   "code": "10107",
+   "note": "Old-syllabus marker written '(Old) (2024-2025)'."
+  },
+  {
+   "code": "10095",
+   "note": "Marked '(Old)' with no year."
+  },
+  {
+   "code": "11206",
+   "note": "Title ends with a trailing comma in the source."
+  },
+  {
+   "code": "15432",
+   "note": "Closing parenthesis missing in the source title."
+  },
+  {
+   "code": "15015",
+   "note": "Title ends with an unbalanced ')' in the source."
+  },
+  {
+   "code": "15472",
+   "note": "Wording 'Photo Editing with Photoshop/Photo PEA' kept as printed; looks unusual."
+  },
+  {
+   "code": "15949",
+   "note": "Code is outside the 154xx series used by neighbouring SEC (Old) papers; verify against the official PDF."
+  },
+  {
+   "code": "15872",
+   "note": "Source uses ';' after '(Elective)'."
+  },
+  {
+   "code": "15808",
+   "note": "Source uses ';' after 'Education'."
+  },
+  {
+   "code": "15813",
+   "note": "Source has a double colon '::'."
+  },
+  {
+   "code": "15495",
+   "note": "Marked '(Swayam – 2026)'; eligibility not explained in the PDF."
+  },
+  {
+   "code": "10096",
+   "note": "Only paper listed under the AEC heading in the PDF; confirm against the official PDF."
+  },
+  {
+   "code": "15043",
+   "note": "Same title as 15086 apart from 'and' vs '&' (E-Commerce); both kept."
+  },
+  {
+   "code": "15086",
+   "note": "Same title as 15043 apart from 'and' vs '&' (E-Commerce); both kept."
+  },
+  {
+   "code": "10110",
+   "note": "Listed after 10120 on the 2nd Dec; order within the date is as printed."
+  }
+ ],
+ "recordsRequiringManualVerification": [
+  "DSC-10006",
+  "AEC-10096",
+  "DSC-10120",
+  "DSC-10110",
+  "DSC-10121",
+  "DSC-10052",
+  "DSC-10107",
+  "DSC-11206",
+  "SEC-15472",
+  "SEC-15495",
+  "SEC-15432",
+  "SEC-15949",
+  "VAC-15872",
+  "VAC-15808",
+  "VAC-15813",
+  "COMP-10095",
+  "MDC-15043",
+  "MDC-15015",
+  "MDC-15068",
+  "MDC-15086",
+  "MDC-15088",
+  "MINOR-10106",
+  "MINOR-10117"
+ ],
+ "uncertainResults": [
+  "Examination time (9.30 a.m. to 12.30 p.m.) is printed once on page 1 as 'TIME OF EXAMINATION'; it is applied to every record, but the PDF text layer does not say per section that it applies.",
+  "The 'Minor Subject' heading has no month/year line; 23rd Wednesday is read as December 2026 from the surrounding sections and the weekday check (23 Dec 2026 is a Wednesday).",
+  "Only one paper (10096) appears under the AEC heading. Other AEC papers could exist elsewhere in the official PDF; this is unconfirmed.",
+  "The DSC heading repeats on page 2 after the AEC row; page-2 papers are assigned to DSC because of that repeated heading.",
+  "Section headings are kept as printed, including the typo 'COURESES' in the MDC heading.",
+  "Eligibility (which courses/programmes a paper applies to) is not stated for most papers; only printed 'Common with…' / 'For B.A.' notes are captured."
+ ],
+ "verificationStatus": {
+  "extractionMethod": "Read from the PDF text layer and transcribed line by line; wrapped titles joined by hand.",
+  "independentSecondExtraction": false,
+  "visualPageCheckAgainstPdfImages": false,
+  "statement": "Programmatic checks above passed or are listed. The dataset has NOT been independently cross-checked against the PDF page images or a second extraction, so it is not claimed to be fully verified."
+ }
+}

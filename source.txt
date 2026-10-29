@@ -1,0 +1,363 @@
+#EXAM|Date- Sheet for the Bachelor of Arts/ Bachelor of Science (FYUGP) - 1st Semester (Regular & Re-appear)(UNDER NEP)|Examination to be held in November/December -2026|PANJAB UNIVERSITY, CHANDIGARH (THEORY EXAMINATIONS)
+#SEC|DSC|Discipline Specific Courses|(Discipline Specific Courses)
+#PAGE|1
+#DATE|2026-11-18|18th, Wednesday
+10001|Adult Education
+10005|Defence & Strategic Studies National Security: An Introduction
+10006|Defenec & Strategic Studies :Terrorism : An Introduction
+10007|Economics: Introductory Micro Economics
+10008|Economics : Quantitative Methods for Economics -I
+10009|Education
+10012|Fine Arts: History of Art Part -A
+10033|Police Administration: Police Administration in India
+11204|Botany: Plant Diversity – I
+11207|Physics: Mechanics
+11232|Botany: Plant Diversity – I(Old 2024-2025)
+#DATE|2026-11-20|20th, Friday
+10017|History: History of India up to C. 1200 C.E.
+10018|History: Cultural History of Ancient India
+10025|Mathematics: Algebra & Trigonometry (Common with B.Sc. 1st Sem)@@Common with B.Sc. 1st Sem
+10026|Music: Hindustani Classical Music –Tabla : Basic Fundamentals of Tabla
+10029|Music: Hindustani Classical Music (instrumental): Introduction of Hindustani Classical Music.
+10112|Music: Hindustani Classical Music (instrumental): Introduction of Hindustani Classical Music and Critical Study of Ragas and Talas (Old 2024-2025)
+10113|Music: Hindustani Classical Music –Tabla Instrumental Music : Basic Fundamentals of Tabla (Old 2024-2025)
+10114|Mathematics: Algebra & Trigonometry (Old 2024-2025)
+11208|Zoology: Diversity of Non – Chordates
+11236|Zoology: Diversity of Non – Chordates (Old 2024-2025)
+#DATE|2026-11-23|23rd, Monday
+10013|Gandhian and Peace Studies: [Mahatma Gandhi: Family and Early Life (India, England and South Africa)]
+10014|Gandhian and Peace Studies: Political Activities of Gandhi in India
+10020|Home Science: Fundamental of interior Decoration and Nutrition
+10028|Music: Hindustani Classical Music – Vocal : Introduction of Hindustani Classical Music
+10030|Philosophy: Introduction to Philosophy
+10031|Philosophy: Yoga Darshan
+10038|Public Administration: Emerging Issues In Public Administration
+10039|Public Administration: Fundamentals of Public Administration
+10108|Home Science: Introduction to interior Decoration and Nutrition (Old 2024-2025)
+10111|Music: Hindustani Classical Music – Vocal : Introduction of Hindustani Classical Music (Old 2024-2025)
+11205|Chemistry : General Chemistry-I
+11233|Chemistry : Chemistry (Old 2024-2025)
+#SEC|AEC|Ability Enhancement Courses|ABILITY ENHANCEMENT COURSES
+#DATE|2026-11-25|25th, Wednesday
+10096|English: Language Skills: Listening and Speaking
+#SEC|DSC|Discipline Specific Courses|(Discipline Specific Courses)
+#PAGE|2
+#DATE|2026-11-27|27th, Friday
+10003|Computer Science & Applications : Computer Fundamentals and PC Software (Common with B.Sc 1st Sem FYUP)@@Common with B.Sc 1st Sem FYUP
+10042|Women Studies: Introduction to Women’s Studies
+#DATE|2026-11-30|30th, Monday
+10002|Agriculture: Elements of Agronomy and Agriculture
+10004|Comparative Study of Religion: Aspect of Religion
+10040|Sociology: Introduction to Sociology
+10102|Agriculture: Elements of Agronomy and Agriculture (Old 2024-2025)
+10103|Comparative Study of Religion: Hinduism (Old 2024-2025)
+11202|Bio-informatics : Bio-informatics – I
+#DATE|2026-12-02|2nd, Wednesday
+10015|Geography: Introduction to Geography
+10016|Geography: Resource Geography
+10023|Journalism & Mass Communication: Introduction to Mass Communication
+10024|Journalism & Mass Communication: Introduction to Development Communication
+10032|Physical Education: Foundation of Physical Education and Sports
+10036|Psychology: Introduction to Psychology – I
+10120|Psychology: Introduction to Psychology – I (Old) (2024-2025)
+10110|Journalism & Mass Communication: Introduction to Mass Communication (Old 2024-2025)
+#DATE|2026-12-04|4th, Friday
+10019|History of Art: History of Indian Painting– I
+10121|History of Art: History of Indian Painting & Sculpture– I(Old) (2024-2025)
+10021|Human Rights & Duties: Historical Evolution of Human Rights
+10022|Human Rights & Duties: Women and Human Rights
+10027|Indian Classical Dance: (Kathak)
+10034|Political Science: Introduction to Political Science
+10035|Political Science: Nationalism and Colonialism in India
+10041|Statistics: Descriptive Statistics – I
+10064|Functional Hindi: Patra, Praupan Evam Tippan Lekhan
+10109|Human Rights & Duties: Historical and Philosophical Perspectives on Human Rights (Old 2024-2025)
+#DATE|2026-12-07|7th, Monday
+10010|English: Introduction to Literary Concepts and Forms – I
+10011|English : Introduction to English Literature -I
+11201|Bio-Chemistry: Biomolecules Common with B.Sc Bio-Technology NEP 1st Sem@@Common with B.Sc Bio-Technology NEP 1st Sem
+#DATE|2026-12-08|8th, Tuesday
+10052|Hindi: Pracheen Kavya Sahitya Ithihaas Evam Vyakaran)
+10053|Hindi : Hindi Bhasha Ka Vikas Evam Mankikaran
+#DATE|2026-12-09|9th, Wednesday
+10056|Punjabi: Punjabi Lokdhara
+10057|Punjabi : Pakistani Punjabi Sahit
+#DATE|2026-12-10|10th, Thursday
+10060|Sanskrit : Sanskrit Katha, niti and Grammar-I
+10061|Sanskrit : Sanskrit Prose
+#DATE|2026-12-11|11th, Friday
+10051|French: French Language Skills – I
+10107|French: French Language– I (Old) (2024-2025)
+10054|Persian: Introduction to Persian grammar & Translation-I
+10055|Persian : Study of Persian Prose
+10058|Russian: Russian Language Skill-I
+10059|Russian: Translation -I
+10062|Urdu: Urdu grammar & Introduction of Poetry Forms-I
+10063|Urdu : Study of Urdu Nazm and Qata
+10116|Persian : Farsi Grammar & Introduction to Poetry Forms (Old 2024-2025)
+10119|Russian: Generic Elective Russian –I: Introduction to Russian –I (Old 2024-2025)
+11203|Biotechnology: Introduction to Biotechnology (Common with B.Sc. Hons. Biotech – 1st semester FYUP)@@Common with B.Sc. Hons. Biotech – 1st semester FYUP
+11206|Industrial Chemistry: Basic Industrial Principles, Data Analysis and Laboratory Operations,
+11221|Microbiology: Basic Microbiology (Common with B.Sc. Hons. Biotech – 1st semester FYUP)@@Common with B.Sc. Hons. Biotech – 1st semester FYUP
+11231|Biotechnology: Fundamental of Biotechnology –I (Old 2024-2025)
+11234|Industrial Chemistry: Basic Industrial Principles, and Laboratory Operations Data Analysis Using A.I (Old 2024-2025)
+11235|Microbiology: Basic Microbiology (Old 2024-2025)
+#SEC|SEC|Skill Enhancement Courses|SKILL ENHANCEMENT COURSES
+#PAGE|3
+#DATE|2026-12-12|12th, Saturday
+15402|Biochemical Techniques – I
+15403|Biotechnology laboratory Biorisk Management
+15404|Basic Lab and Field Skills in Botany
+15405|Digital Marketing
+15406|Data Analytics
+15407|Commerce : (Security Analysis)
+15408|Commerce : (Tally Prime Applications in Accounting)
+15409|Contemporary Banking
+15412|Comparative Study of Religion: Musicology & Religious Tradition
+15413|Defence and Strategic Studies: Defence Journalism: an introduction
+15414|Economics: Data Collection and Handling – I
+15415|Education : Life Skills Education
+15416|Education : Introduction To Guidance & Counseling
+15417|English: Public Speaking
+15418|English: Business Communication
+15419|Functional Hindi : Hindi in Media and Digital Communication
+15420|Gandhian & Peace Study :(Training In Communication and Development In Gandhian Philosophy)
+15421|Geography : Reading Atlas
+15422|Hindi : (Anuvad Avam Proof Pathan)
+15423|History :(Museology and Conservation)
+15424|Human Rights & Duties: Para-Legal Skill Training
+15425|Journalism & Mass Communication :Creative Writing
+15427|Persian: (History of Persian Literature-I)
+15428|Philosophy: Applied Reasoning
+15429|Physical Education: Fitness and Conditioning
+15434|Sanskrit: (Chhandas Recitation and speaking)
+15435|Sociology : Basics of Social Research – I
+15436|Statistics : Statistical Data Analysis using MS Excel
+15437|Urdu : Urdu Inpage
+15439|Zoology: Vermiculture & Vermicomposting
+15440|LAW : Introduction to Child Right and POCSO Act 2012
+15441|LAW : Overview of Anti Sexual Harassment Law
+15442|LAW : Demystifying Right to Information and How to file RTI
+15443|LAW :Public Speaking and Personality Development
+15444|LAW : Basic Research Methodology
+15445|LAW : Introduction to Legal Aid and how to avail it
+15446|LAW : Trademark Registration & Protection
+15447|Mathematics: Maths Based Practicals (MATSEC1)
+15461|Applied Hindi in Translation and Journalism (Old)
+15462|Basics of Excel (OLD)
+15463|Biotechnology : (Biosafety & Biosecurity)
+15464|Business and Office Communication
+15465|Punjabi: Creative Writing Art (OLD)
+15466|Digital Art using Photoshop (OLD)
+15467|Digital Marketing (OLD)
+15468|Hindustani Classical Music: Harmonium (OLD)
+15469|French: Introduction to India & its Culture to French Speaking Tourists (Old)
+15470|Music in Daily Life (OLD)
+15471|Organic Farming (OLD)
+15472|Photo Editing with Photoshop/Photo PEA
+15473|Physics : Instrumentation Skills –I (Old)
+15474|Russian: Russian in the Travel and Tourism Sector (Old)
+15475|Basic Research Methodology (Old)
+15476|Computer Literacy (Old)
+15477|Fundamental of Web Designing (Old)
+15478|Hindustani Music: Vocal and Instrumental (Old)
+15479|Personality Development and Professional Skills (Old)
+15480|Personality Development and Communication (Old)
+15495|Basics of Food and Nutrition (Swayam – 2026)
+#PAGE|4
+#DATE|2026-12-12|12th, Saturday
+15401|Agriculture : (Nursery Production)
+15410|Commerce : (Fundamental of Travel & Tourism)
+15411|Commerce:(Introduction to event Management)
+15426|Microbiology : (Tool & Technique in Microbiology)-I
+15430|Psychology : (Life Skills I)
+15431|Public Administration : Basic Administration Skills
+15432|Punjabi :(Sirjnatmak Lekhan Hunar ate Jansanchar
+15433|Russian :Russian -I
+15438|Women Study : (Gender Sensitization)
+15448|Math Based Programming and Practicals
+15449|Mathematics : Latex and HTML
+15450|Mathematics : Quantitative Aptitude
+15451|Mathematics : Discrete Mathematics
+15452|Mathematics : Mathematics Modeling
+15482|Computer Science & Application : (Python Programming) (Old)
+15483|Spectroscopic Analysis (Old)
+15484|English Creative Writing (Old)
+15485|Biosafety (Old)
+15493|Music : Music Appreciation and Basic Training (Old)
+15949|Mathematics :Quantitative Aptitude (Old)
+#SEC|VAC|Value Added Courses|VALUE ADDED COURSES
+#DATE|2026-12-15|15th, Tuesday
+15801|Botany: Nursery and Gardening
+15804|Financial Literacy
+15805|Comparative Study of Religion: Festivals and Pilgrimages
+15809|Education: Development of Soft Skills
+15810|Education: introduction to Disabilities Studies
+15812|Education: Art Therapy in Education
+15814|English (Elective): Literature and New Media
+15815|Environment Science : (Environmental Science)
+15816|Functional Hindi : Functional and Digital Hindi
+15818|Hindi (Elective): Hindi Kavya Avem Kahani Mein Manav Mulya
+15820|Home Science: (Nutrition and Fitness – I)
+15822|Law: Introduction to Cyber Laws
+15823|Law: Introduction of IPR
+15824|Health Laws
+15825|Introduction to Data Protection laws
+15827|Law: Gender Sensitization
+15828|Law: LGBTQ Studies
+15829|Introduction to Consumer Law and Practice
+15830|General Financial Literacy
+15831|Law: Introduction to Constitution of India and Fundamental Rights
+15837|Persian(Elective): Value Based Persian Text -I
+15839|Physical Education: Health and Wellness
+15841|Political Science: Constitutional Morality as a Value in Contemporary Society
+15842|Public Administration: Digital Governance
+15843|Punjabi (Elective): Punjab di Virasat
+15844|Russian : Russian Grammar, Communication I
+15845|Sanskrit (Elective):Dharma and Sanskriti
+15846|Sociology: Indian Traditions and Values
+15850|Computer Science and Application: Introduction of Blockchain Technology
+15851|Computer Science & Applications :(Introduction to Computer Hardware)
+15871|Computer Science: Back End Web Development (Old)
+15872|French (Elective); Basic French language (Old)
+15873|Fine Arts: Creative Photography (Old)
+15874|Physics: Fundamentals of Solar energy and Applications (Old)
+15875|Growing Sustainable Food in Small Spaces
+15876|Introduction to Research (Old)
+15877|Physics: Introduction to Nanoscience and Nanotechnology (Old)
+15878|Shastri (Elective): Karamkand
+15879|Nutrition, Fitness and Community Health (Old)
+#PAGE|5
+#DATE|2026-12-15|15th, Tuesday
+15802|Chemistry (Understanding Household Product)
+15803|Human Rights & Duties: Understanding Human Rights
+15806|Defence Studies: Science, Technology & Defence
+15807|Economics : Introduction to Health Economics
+15808|Education; Teacher and Society
+15811|E – Content Development
+15813|English (Elective):: Understanding India through Literature
+15817|Gandhian and Peace Studies: Understanding of Non-Violence in Gandhian Way
+15819|History: Understanding India (Ancient Ideas)
+15821|Journalism & Mass Communication: Press, Nationalism and India’s Freedom Struggle
+15826|Law : Practical Insights of Criminal Law
+15832|Mathematics: (Vedic Mathematics)
+15833|Mathematics (Vedic Algebra)
+15834|Mathematics (Theory of Numbers)
+15835|Mathematics (Theory of Numbers with HTML)
+15836|Music : Instrumental : Basic of Indian Music
+15838|Philosophy: Philosophy of Swami Vivekanand
+15840|Physics: Science in Everyday Wonder
+15847|Urdu (Elective): Grammar & Composition -I
+15848|Women Studies: Understanding Gender
+15849|Zoology (Basic Laboratory Techniques)
+15852|Computer Science & Applications(Digital Empowerment)
+15853|Ethics OF Artificial Intelligence
+15880|Philosophy: Philosophy of Swami Dayanand Saraswati
+15881|Computer Science & Application : Python Programming (Old)
+15882|Agriculture : Sustainable Vegetable Crops for Kitchen Gardening (Old)
+15883|Issues in Indian Commerce
+15884|Punjabi : Heritage of Punjabi (Old)
+15885|Public Administration : Information & Communication Technology and Governance (Old)
+15886|History : Understanding India –I (Old)
+#SEC|COMP|Compulsory Punjabi/HCP/Urdu|COMPULSORY PUNJABI/HCP/URDU
+#DATE|2026-12-18|18th, Friday
+10091|Punjabi Compulsory : (Punjabi Kavita Ate Vyakaran) (Common with B.Sc General & Shastri 1st sem NEP)@@Common with B.Sc General & Shastri 1st sem NEP
+10092|History and Culture of Punjab:History and culture of Punjab upto C. 400BC (For B.A. & Shastri 1st sem Only)@@For B.A. & Shastri 1st sem Only
+10093|History and Culture of Punjab: History and Culture of Punjab upto C.18 TH Century (Other Than B.A.)@@Other Than B.A.
+10094|Urdu : Urdu (A Study of Urdu Ghazal)
+10095|Punjabi Compulsory : Punjabi Poetry and Grammar (PUN 107) (Common with B.Sc. (General) and Shastri – 1st Semester NEP) (Old)@@Common with B.Sc. (General) and Shastri – 1st Semester NEP
+#SEC|MDC|Inter/Multi-disciplinary Courses|INTER/MULTI DISCIPLINARY COURESES
+#PAGE|5
+#DATE|2026-12-21|21st, Monday
+15007|French (Elective) [Eighteen Century French Philosophy & Literature]
+15008|Functional Hindi : Prayojanmulak Hindi ke Swaroop aur Prayogatmak Kshetra
+15011|Hindi: Sant Kavi Kahani Vidha Avem Vayakarn
+15016|Journalism & Mass Communication: Communication and Legacy Media
+15017|Mathematics: Basic Mathematics
+15023|Police Administration: Criminal Justice Administration in India
+15024|Political Science: Constitution of India: Reading the Text
+15026|Punjabi (Elective) : (Sahit Ate Samaj)
+15027|Russian : Russian History and Culture
+15037|Chemistry: Basic Analytical Methods– I
+15043|Computer Science and Application: E-Commerce
+15061|Home Science: Basics of Fashion Designing - I
+15062|Food Science: Basics of Nutrition and Food Science – I (Old)
+15063|Commercial Law: Commercial Law (Common with B.Com. 1st semester)@@Common with B.Com. 1st semester
+#PAGE|6
+15001|Agriculture: Agricultural Botany and Crop Physiology
+15002|Comparative Study of Religion: Bhakti Movement, Ramanuj and Chaitanya
+15003|Defence and Strategic Studies: (International Relations): An introduction
+15004|Economics: Introductory Micro Economics
+15005|English (Elective): Literature and Ethics
+15006|Fine Arts : History of Art (theory)
+15009|Gandhian and Peace Studies: ( Early Political Activities of Gandhi in South Africa and India)
+15010|Geography: Geography and Environment
+15012|History: Punjab up to C.E. 1000 A.D.
+15013|Home Science: Basic of Food And Nutrition I
+15015|Human Rights and Duties: Sustainability and Human Rights)
+15018|Mathematics :Calculus
+15019|Mathematics: Algebra
+15020|Music :Introduction of Music
+15021|Philosophy: Yoga and Meditation
+15022|Physical Education: Modern Lifestyle and Physical Education
+15025|Public Administration: introduction to Public Administration
+15028|Sanskrit (elective):Yoga and Ayurvijnana
+15029|Statistics – I
+15030|Sociology: Understanding Contemporary Social Issues
+15031|Urdu (Elective): Urdu Ghazal, Nazm & Afsana -I
+15032|Women Studies: Women and Legal Rights
+15033|Bio-Chemistry: Introduction to Biochemistry
+15034|Bio-Technology (Foundations of Biotechnology)
+15035|Botany: Plants Importance and Propagation
+15036|Fashion Designing: Introduction to Family and Community Science
+15038|Home Science : Introduction to Applied Science For Home Science
+15039|Microbial Foods Technology: Nutrition And Dietary Management
+15040|Microbiology: Introduction to Microbiology
+15041|Physics :Green Energy
+15042|Zoology: Health and Hygiene
+15044|Computer Science & Applications : Management Information System
+15045|Computer Science & Applications : Computer Programming And Problem Solving
+15046|Computer Science & Applications : Social Media Marketing
+15047|Computer Science & Applications : Business Intelligence
+15064|Fundamentals of Information Technology
+15065|Fundamentals of International Business
+15066|Hindustani Music
+15067|History of Art: History of Indian Painting – I
+15068|Punjabi : Literature and society (Option – i)
+15069|Bioinformatics: Introduction to Bioinformatics -I
+15070|Computer Science and Application: Web Development/Designing (Old)
+15071|Exploring Physics in daily life
+15072|Computational Physics (Old)
+15073|Elements of Modern Physics (Old)
+15074|Basics of materials science (Old)
+15075|Russian :Introduction to Russian Literature from 18th Century to Mid 19th Century
+15076|Microbes for Sustainable Development
+15077|Home Science : Introduction to Applied Science For Home Science-I ( for B.A.)@@for B.A.
+15078|Punjabi : Basic Punjabi (Opt-II)
+15079|Hindi : Bhakti Kavya Aadikal Avum Viyakaran (Old)
+15080|Human Rights And Duties : Human Rights And Duties In India (Old)
+15081|Economics : Principles of Micro Economics (Old)
+15082|Food Science : Special Food And Meal Management (Old)
+#PAGE|7
+15083|Fundamental of International Business (Old)
+15084|Bio-Informatics : Math and Computer Fundamental for Biologist (Old)
+15085|Computer Science &Application : Computer Programming and Problem Solving (Old)
+15086|Computer Science &Application : E-Commerce
+15088|Punjabi : Literature and Society (Option –i)
+#SEC|MINOR|Minor Subject|Minor Subject
+#DATE|2026-12-23|23rd Wednesday
+10071|Advertising,Sales Promotion & Sales Management: Fundamentals of Personal Selling
+10072|Early Childhood Care & Education: Child Development
+10073|Environment Conservation: Natural Resource Management (Common with B.Sc. 1st Sem NEP)@@Common with B.Sc. 1st Sem NEP
+10074|Fashion Designing: Fundamentals of Clothing
+10075|Foreign Trade Policy & Procedure: Basics of Foreign Trade
+10076|Hindustani Classical Music (Tabla) : Introduction of Tabla
+10077|Indian Classical Dance : Kathak
+10078|Office Management & Secretarial Practice: Office Management and Methods (OMSD)
+10079|Principle & Practice of Insurance: Fundamental of Insurance
+10080|Retail Marketing: The World of Retailing
+10104|Early Childhood Care & Education: Child Development (Old 2024-2025)
+10106|Fashion Designing: Fundamentals of Clothing (Old 2024-2025))
+10115|Office Management : Office Management and Methods (Old 2024-2025)
+10117|Principle & Practice of Insurance: Insurance and Risk Management (Old 2024-2025)
+10118|Retail Marketing : Retail Marketing (Old 2024-2025)

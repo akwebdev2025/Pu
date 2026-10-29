@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PU DateSheet Simplifier</title>
+<meta name="description" content="Pick your Panjab University FYUGP 1st Semester papers and download your own datesheet as a PDF.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="#main">PU DateSheet Simplifier</a>
+    <nav aria-label="Steps">
+      <a href="#step-select">Select</a>
+      <a href="#step-review">Review <span id="navCount" class="pill" hidden>0</span></a>
+      <a href="#about">Source</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+  <section class="intro" aria-labelledby="examTitle">
+    <p class="meta" id="examSession">Loading examination details…</p>
+    <h1 id="examTitle">Your personal datesheet</h1>
+    <p class="lead">Choose the papers you are appearing in. Get a one-page datesheet with only those papers.</p>
+  </section>
+
+  <div id="status" role="status" aria-live="polite"></div>
+
+  <section id="step-select" aria-labelledby="h-select">
+    <h2 id="h-select">1. Select your papers</h2>
+    <div class="search">
+      <label for="q">Search by subject name or code</label>
+      <input id="q" type="search" placeholder="e.g. 10007 or Economics" autocomplete="off">
+    </div>
+    <div class="tabs" role="tablist" aria-label="Paper categories" id="tabs"></div>
+    <div class="listhead">
+      <span id="listCount" aria-live="polite"></span>
+      <label class="chk"><input type="checkbox" id="oldToggle"> Show old-syllabus papers</label>
+    </div>
+    <div id="panel" role="tabpanel" tabindex="0"></div>
+  </section>
+
+  <section id="step-review" aria-labelledby="h-review">
+    <h2 id="h-review">2. Review your selection</h2>
+    <div id="review"></div>
+    <div class="actions">
+      <button id="btnPdf" class="btn primary" type="button">Download PDF</button>
+      <button id="btnPrint" class="btn" type="button">Print datesheet</button>
+      <button id="btnClear" class="btn ghost" type="button">Clear all</button>
+    </div>
+    <p id="pdfMsg" class="msg" role="status"></p>
+  </section>
+
+  <section id="about" class="about" aria-labelledby="h-about">
+    <h2 id="h-about">About this data</h2>
+    <p id="aboutText"></p>
+    <p>Papers are taken from the official Panjab University date sheet (<span id="pdfRef"></span>). Eligibility is not stated for most papers, so choose only the papers on your admit card. This is an unofficial helper. Check the official Panjab University website for changes or corrections before your exams.</p>
+    <p><a href="validation-report.json">Open the validation report</a> to see the checks run and the records flagged for manual review.</p>
+  </section>
+</main>
+
+<footer class="foot"><div class="wrap">PU DateSheet Simplifier is not affiliated with Panjab University.</div></footer>
+
+<div id="printArea" aria-hidden="true"></div>
+<script src="script.js"></script>
+</body>
+</html>
